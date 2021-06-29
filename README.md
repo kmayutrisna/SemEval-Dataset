@@ -1,5 +1,5 @@
 # SemEval-Dataset
-contains a collection of datasets on semeval 2014, 2015, and 2016 regarding aspect based sentiment analysis
+Contains a collection of datasets on semeval 2014, 2015, and 2016 regarding aspect based sentiment analysis. Including details of every forlder and journal.
 
 SemEval Dataset 2014 Task 4
   Contains two domains: laptop and restaurant domain
